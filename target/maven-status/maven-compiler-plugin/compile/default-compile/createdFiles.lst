@@ -1,0 +1,6 @@
+com\example\Address.class
+com\example\App.class
+com\example\Entity.class
+com\example\UserInfo.class
+com\example\UserInfoRepository.class
+com\example\UserInfoService.class
